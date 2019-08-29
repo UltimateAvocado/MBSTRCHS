@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetalBroxstarChaos.Modelos", "MetalBroxstarChaos.Modelos\MetalBroxstarChaos.Modelos.csproj", "{EB8D8334-076A-4645-B63E-4A7A6F2472DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetalBroxstarChaos.Datos", "MetalBroxstarChaos.Datos\MetalBroxstarChaos.Datos.csproj", "{3E313E9B-B51B-4A9C-BA3D-87CDBA9F0058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetalBroxstarChaos.Consola", "MetalBroxstarChaos.Consola\MetalBroxstarChaos.Consola.csproj", "{A50BAF8C-82DE-4888-BF54-C01A9DCFF705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8D8334-076A-4645-B63E-4A7A6F2472DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8D8334-076A-4645-B63E-4A7A6F2472DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8D8334-076A-4645-B63E-4A7A6F2472DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8D8334-076A-4645-B63E-4A7A6F2472DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E313E9B-B51B-4A9C-BA3D-87CDBA9F0058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E313E9B-B51B-4A9C-BA3D-87CDBA9F0058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E313E9B-B51B-4A9C-BA3D-87CDBA9F0058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E313E9B-B51B-4A9C-BA3D-87CDBA9F0058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50BAF8C-82DE-4888-BF54-C01A9DCFF705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50BAF8C-82DE-4888-BF54-C01A9DCFF705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50BAF8C-82DE-4888-BF54-C01A9DCFF705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50BAF8C-82DE-4888-BF54-C01A9DCFF705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
